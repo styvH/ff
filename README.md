@@ -1,15 +1,15 @@
-# Commandes : 
+# Commandes de Récupération vendor et .env : 
 
 ## Prérequis : 
 Installer Composer associé à la version php la plus récente, compatible au fichier.
 Laravel associé à la bonne version php
 
 
-## Créer vendor  : 
+### Créer vendor  : 
 ```
 composer install
 ```
-## Créer .env : 
+### Créer .env : 
 
 ```
 cp .env/example .env

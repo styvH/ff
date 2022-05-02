@@ -31,7 +31,7 @@ npm run dev
 php artisan migrate
 
 ```
-# Si Erreur : Vérifier + créer la base de données avec le bon nom
+# Si Erreur : Vérifier + créer la base de données avec le bon DB NAME
 Modifier le fichier .env pour correspondre à la base de données et à l'HOST
 
 commande : 

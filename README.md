@@ -5,7 +5,7 @@ Installer Composer associé à la version php la plus récente, compatible au fi
 Laravel associé à la bonne version php
 
 
-### Créer vendor  : 
+## Créer vendor  : 
 ```
 composer install
 ```

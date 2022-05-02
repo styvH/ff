@@ -10,7 +10,7 @@ Laravel associé à la bonne version php
 composer install
 
 # Créer .env : 
-cp .env/example .env
+cp .env/example .env <br>
 php artisan key:generate
 
 
@@ -18,17 +18,17 @@ php artisan key:generate
 
 ## Commandes installation jetstream : 
 
-composer require laravel/jetstream
+composer require laravel/jetstream <br>
 
-php artisan jetstream:install livewire
-php artisan jetstream:install livewire --teams
+php artisan jetstream:install livewire <br>
+php artisan jetstream:install livewire --teams <br>
 
-npm install
-npm run dev
-php artisan migrate
+npm install <br>
+npm run dev <br>
+php artisan migrate <br>
 
 
 # Si erreur : Vérifier + créer la base de données avec le bon nom
-Modifier le fichier .env pour correspondre à la base de données et à l'HOST
+Modifier le fichier .env pour correspondre à la base de données et à l'HOST <br>
 
-commande : php artisan migrate
+commande : php artisan migrate 

@@ -12,7 +12,7 @@ composer install
 ### Créer .env : 
 
 ```
-cp .env/example .env
+cp .env.example .env
 php artisan key:generate
 ```
 

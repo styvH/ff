@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/metamask/.gitignore": "/js/metamask/.gitignore",
+    "/js/metamask/connect.png": "/js/metamask/connect.png",
+    "/js/metamask/index.html": "/js/metamask/index.html",
+    "/js/metamask/index.js": "/js/metamask/index.js",
+    "/js/metamask/package.json": "/js/metamask/package.json",
+    "/js/metamask/README.md": "/js/metamask/README.md",
+    "/js/metamask/yarn.lock": "/js/metamask/yarn.lock"
+}

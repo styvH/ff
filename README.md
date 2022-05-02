@@ -12,7 +12,7 @@ composer install
 # Créer .env : 
 
 ```
-cp .env/example .env <br>
+cp .env/example .env
 php artisan key:generate
 ```
 
@@ -21,18 +21,18 @@ php artisan key:generate
 ## Commandes installation jetstream : 
 
 ```
-composer require laravel/jetstream <br>
+composer require laravel/jetstream
 
-php artisan jetstream:install livewire <br>
-php artisan jetstream:install livewire --teams <br>
+php artisan jetstream:install livewire
+php artisan jetstream:install livewire --teams
 
-npm install <br>
-npm run dev <br>
-php artisan migrate <br>
+npm install
+npm run dev
+php artisan migrate
 
 ```
 # Si erreur : Vérifier + créer la base de données avec le bon nom
-Modifier le fichier .env pour correspondre à la base de données et à l'HOST <br>
+Modifier le fichier .env pour correspondre à la base de données et à l'HOST
 
 commande : 
 ```
